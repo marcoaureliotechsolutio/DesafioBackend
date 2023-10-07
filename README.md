@@ -71,6 +71,26 @@ Para o desafio, temos 2 etapas, sendo:
 docker run -it --rm -v $(pwd):/project -w /project jakzal/phpqa phpmd app text cleancode,codesize,controversial,design,naming,unusedcode
 ```
 
-- CodeReview, oportunidade a qual bateremos um papo leve e você terá oportunidade de explicar seu código.
-- 
+- CodeReview, oportunidade a qual bateremos um papo leve e você terá oportunidade de explicar seu código, veja quais serão os critérios:
+  - Código documentado.
+  - Código limpo, organização (Clean Code).
+  - Aplicação de Padrões (SOLID, PSR, etc).
+  - Saber defendar suas escolhas para o desafio.
+  - Apresentar domínio sobre as escolhas.
+  - Modelagem de Dados.
+  - Manutenção de Código.
+  - Tratamento de Erros.
+  - Aplicação de argumentos para tratativas de segurança.
+  - Desacoplamento de Componentes (Service, Repository, etc).
+ 
+## O que não avaliaremos
+- Fluxos adotados para resolver o problema, afinal, há mais de um caminho para chegarmos no objetivo.
+- Design UX/UI.
+
+## No que você pode se destacar
+- Uso de DOCKER.
+- Testes (unitários e de integração).
+- Documentação.
+- Propostas de evolução e melhorias futuras.
+- Simplicidade em resolver problemas.
 
