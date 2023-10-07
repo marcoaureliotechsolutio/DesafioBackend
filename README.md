@@ -94,3 +94,7 @@ docker run -it --rm -v $(pwd):/project -w /project jakzal/phpqa phpmd app text c
 - Propostas de evolução e melhorias futuras.
 - Simplicidade em resolver problemas.
 
+## Links Úteis
+[Porque usar Padrões]([https://pages.github.com/](https://hub.packtpub.com/why-we-need-design-patterns/)https://hub.packtpub.com/why-we-need-design-patterns/).
+[Porque usar Padrões]([https://pages.github.com/](https://hub.packtpub.com/why-we-need-design-patterns/)https://hub.packtpub.com/why-we-need-design-patterns/).
+[Porque usar Padrões]([https://pages.github.com/](https://hub.packtpub.com/why-we-need-design-patterns/)https://hub.packtpub.com/why-we-need-design-patterns/).
