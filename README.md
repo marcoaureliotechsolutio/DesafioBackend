@@ -35,7 +35,7 @@ Pense em containers, a gente gosta bastante disse e valorizamos uma boa estrutur
 
 No dia agendado, a aplicação deve estar pronta em execução na sua máquina. Será a oportunidade de nos apresentar o seu desenvolvimento e responder os questionamentos que possivelmente realizaremos. Será um **CODE REVIEW**, como se você já estivesse integrado ao nosso time ❤️. Você explicará prá gente como pensou, planejou e executou seu projeto. Ah! Lembre-se de trazer pontos de melhorias futuras, a gente gosta disso!
 
-# Desafio TECHSOLUTIO CRUD
+# Desafio Produtos
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc fringilla in orci nec pretium. Nam et purus velit. Vestibulum finibus, mauris nec hendrerit varius, nisl lorem tempor dui, eu molestie ligula dui vitae lectus. Nam et purus est. Cras ut metus nec tellus faucibus fermentum. In convallis purus et lacus porta feugiat. Cras orci urna, elementum ut lorem at, facilisis pharetra nibh. Ut pharetra rutrum erat, non dignissim ante vehicula in. Cras sagittis turpis at diam imperdiet, et cursus arcu porttitor. Curabitur lacinia lacus nibh. Mauris ultricies ante fermentum metus dignissim luctus.
 
@@ -53,4 +53,24 @@ Monte seu payload próprio, pense simples, abaixo um exemplo de simplicidade:
   "message": "YES, I can do it!"
 }
 ```
+
+# Avaliação
+
+- Mostra sua entrega utilizando o framework que você desejar, mas fundamente sua escolha, justifique a esclha. 
+- Cumpra todos os requisitos ou a maioria deles. Caso os cumpra parcialmente, a gente discutirá contigo porque faltou, traga suas dores e queixas, isso nos ajuda a melhorar sempre.
+
+Nossa avaliação será composta por 3 etapas, sendo elas:
+- Entrevista.
+- Desafio Técnico.
+- Code Review do Desafio.
+
+Para o desafio, temos 2 etapas, sendo:
+- Correção objetiva através do script de correção automática, esse você roda na sua máquina mesmo ou usando outra ferramenta:
+  
+```
+docker run -it --rm -v $(pwd):/project -w /project jakzal/phpqa phpmd app text cleancode,codesize,controversial,design,naming,unusedcode
+```
+
+- CodeReview, oportunidade a qual bateremos um papo leve e você terá oportunidade de explicar seu código.
+- 
 
