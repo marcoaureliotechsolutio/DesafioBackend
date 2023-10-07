@@ -13,6 +13,20 @@ Primeiramente, obrigado pelo seu interesse em trabalhar conosco. Prezamos pelo d
 
 E prá gente terminar essas orientações, fique tranquilo, respire, faça uma pausa quando preciso. A gente por aqui já passou por isso, você vai tirar de LETRA! Boa sorte! :)
 
-**Equipe TechSolutio / 4io**
+**TECHSOLUTIO Developer Team**
 
+# Sobre a entrega
+Envie por email as seguintes informações ao término do desafio, vamos lá:
 
+- Seu Nome
+- Link do repositório
+- Link do Linkedin
+
+# Ambiente da Aplicação
+Foque nas suas habilidades, escolha o framework mais latente ao seu conhecimento. Queremos avaliar seu conhecimento em JAVA, esse teste não foca em FRAMEWORK, mas na sua maturidade na linguagem JAVA. Decida por algo que esteja e seja mais seguro dentro do seu conhecimento. Queremos que você fale com o máximo de segurança em nossa devolutiva.
+
+Caso deseje, você pode optar por não usar FRAMEWORK nenhum. Para casos como este, realize a implementaçào via script, assim reduziremos a necessidade de criar um servidor.
+
+Se optar pelo uso de um FRAMEWORK, evite os métodos **MÁGICOS** ou mecanismos já prontos. É claro que isso ajuda muito no dia-dia e garante uma boa produtividade, mas aqui nesse desafio queremos ver sua maneira de resolver problemas e ver você **CODANDO**.
+
+Pense em containers, a gente gosta bastante disse e valorizamos uma boa estrutura.
