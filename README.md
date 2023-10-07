@@ -27,6 +27,12 @@ Foque nas suas habilidades, escolha o framework mais latente ao seu conhecimento
 
 Caso deseje, você pode optar por não usar FRAMEWORK nenhum. Para casos como este, realize a implementaçào via script, assim reduziremos a necessidade de criar um servidor.
 
-Se optar pelo uso de um FRAMEWORK, evite os métodos **MÁGICOS** ou mecanismos já prontos. É claro que isso ajuda muito no dia-dia e garante uma boa produtividade, mas aqui nesse desafio queremos ver sua maneira de resolver problemas e ver você **CODANDO**.
+Se optar pelo uso de um FRAMEWORK, evite os métodos **MÁGICOS** ou mecanismos já prontos. É claro que isso ajuda muito no dia-dia e garante uma boa produtividade, mas aqui, queremos ver sua maneira de resolver problemas e ver você **CODANDO**.
 
 Pense em containers, a gente gosta bastante disse e valorizamos uma boa estrutura.
+
+# Preparo para o dia da Entrevista / Code Review
+
+No dia agendado, a aplicação deve estar pronta em execução na sua máquina. Será a oportunidade de nos apresentar o seu desenvolvimento e responder os questionamentos que possivelmente realizaremos. Será um **CODE REVIEW**, como se você já estivesse integrado ao nosso time ❤️. Você explicará prá gente como pensou, planejou e executou seu projeto. Ah! Lembre-se de trazer pontos de melhorias futuras, a gente gosta disso!
+
+
