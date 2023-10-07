@@ -96,6 +96,4 @@ docker run -it --rm -v $(pwd):/project -w /project jakzal/phpqa phpmd app text c
 - Uso de DOCKER.
 
 ## Links Úteis
-[Porque usar Padrões]([https://pages.github.com/](https://hub.packtpub.com/why-we-need-design-patterns/)https://hub.packtpub.com/why-we-need-design-patterns/).
-[Porque usar Padrões]([https://pages.github.com/](https://hub.packtpub.com/why-we-need-design-patterns/)https://hub.packtpub.com/why-we-need-design-patterns/).
-[Porque usar Padrões]([https://pages.github.com/](https://hub.packtpub.com/why-we-need-design-patterns/)https://hub.packtpub.com/why-we-need-design-patterns/).
+Padrões [Porque usar Padrões]([https://pages.github.com/](https://hub.packtpub.com/why-we-need-design-patterns/)https://hub.packtpub.com/why-we-need-design-patterns/).
