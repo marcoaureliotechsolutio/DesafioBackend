@@ -11,7 +11,7 @@ Primeiramente, obrigado pelo seu interesse em trabalhar conosco. Prezamos pelo d
   - Fique de olho na entrevista, por lá você poderá absorver dicas para alguns passos dentro do nosso processo.
   - Ah! Não fiquei na dúvida, pergunte tudo o que for preciso aos recrutadores, eles não são seu INIMIGO!
 
-- E prá gente terminar essas orientações, fique tranquilo, respire, faça uma pausa quando preciso. A gente por aqui já passou por isso, você vai tirar de LETRA! Boa sorte! :)
+E prá gente terminar essas orientações, fique tranquilo, respire, faça uma pausa quando preciso. A gente por aqui já passou por isso, você vai tirar de LETRA! Boa sorte! :)
 
 **Equipe TechSolutio / 4io**
 
