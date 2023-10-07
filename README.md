@@ -45,7 +45,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc fringilla in orci 
 
 Monte seu payload próprio, pense simples, abaixo um exemplo de simplicidade:
 
-[^1]: {
+{
   "senderID": 1,
   "receiverID": 25,
   "auditID": 100
