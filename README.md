@@ -96,18 +96,10 @@ docker run -it --rm -v $(pwd):/project -w /project jakzal/phpqa phpmd app text c
 - Uso de DOCKER.
 
 ## Links Úteis
-[Porque usar Padrões] (https://hub.packtpub.com/why-we-need-design-patterns/)https://hub.packtpub.com/why-we-need-design-patterns/).
-
-[Padrões e Refatorações] (https://refactoring.guru/).
-
-[Spring Official] (https://spring.io/).
-
-[Microservices by Martin Flower] (https://martinfowler.com/articles/microservices.html).
-
-[REST Short Guide by Spring] (https://spring.io/guides/tutorials/rest/).
-
-[Tutorial REST] (https://www.devmedia.com.br/rest-tutorial/28912).
-
-[Tools for Code Analysis] (https://github.com/exakat/php-static-analysis-tools).
-
-
+- [Porque usar Padrões] (https://hub.packtpub.com/why-we-need-design-patterns/)https://hub.packtpub.com/why-we-need-design-patterns/).
+- [Padrões e Refatorações] (https://refactoring.guru/).
+- [Spring Official] (https://spring.io/).
+- [Microservices by Martin Flower] (https://martinfowler.com/articles/microservices.html).
+- [REST Short Guide by Spring] (https://spring.io/guides/tutorials/rest/).
+- [Tutorial REST] (https://www.devmedia.com.br/rest-tutorial/28912).
+- [Tools for Code Analysis] (https://github.com/exakat/php-static-analysis-tools).
