@@ -50,7 +50,7 @@ Monte seu payload próprio, pense simples, abaixo um exemplo de simplicidade:
   "sender": 12,
   "receiver": 25,
   "value": 100.0,
-  "message": "success"
-  }
+  "message": "YES, I can do it!"
+}
 ```
 
